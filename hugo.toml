@@ -1,0 +1,16 @@
+
+baseURL = "/"
+languageCode = "en-us"
+title = "Coral Agency Weekly"
+theme = "custom"
+
+[params]
+  description = "Weekly insights on agency operations, client management, pricing, and scaling beyond $10k/month."
+  author = "Editorial Team"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
