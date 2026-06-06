@@ -1,4 +1,9 @@
 ---
+image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=450&fit=crop&auto=format&q=80"
+cover:
+  image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=450&fit=crop&auto=format&q=80"
+  alt: "cover"
+  relative: false
 title: "Welcome to Coral Agency Weekly"
 date: 2026-06-01
 description: "Weekly insights on agency operations, client management, pricing, and scaling beyond $10k/month."
